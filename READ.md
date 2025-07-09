@@ -1,3 +1,3 @@
-1# Rental Billing
+Rental Billing
 
 Some description
